@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import styled from "styled-components";
-import { useGlobalState } from "../context/globalProvider";
+import { useGlobalState } from "../../context/globalProvider";
 import Image from "next/image";
 
 import menu from "../../utils/menu";
